@@ -1,0 +1,5 @@
+gateway01.ap-southeast-1.prod.aws.tidbcloud.com
+4000
+2vZ6xRaECdAoM35.root
+T3dJySwOKiO1UkoT
+EconomyGame
